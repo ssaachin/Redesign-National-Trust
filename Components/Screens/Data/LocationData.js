@@ -337,7 +337,7 @@ const items = [
       longitudeDelta: 0.005,
       imageUrl: "https://nt.global.ssl.fastly.net/images/1431733576616-774710.jpg",
       activityTagsAsCsv : "Dog walking, Running, Walking",
-      cmsRegion : "RegionNorthernIreland",
+      cmsRegion : "RegionNorthernIrelandj",
       time : " N/A",
       address : "Kemble Drive, Swindon, Wiltshire, SN2 2NA"
     },
